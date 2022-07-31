@@ -80,6 +80,8 @@ sh build.sh
 ```
 图像边缘检测：
 
+![img](https://img-blog.csdnimg.cn/302221e885534d4f9076a0e4cefdf1dc.png)
+
 ![img](https://img-blog.csdnimg.cn/5c8c64e097cf4c6f824448db337dec1e.png)
 
 ![img](https://img-blog.csdnimg.cn/eecab2bcfbc34a4487007dc5e46bc808.png)
