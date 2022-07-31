@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/linwis/Project/SimpleWebServer'
+mkdir -p bin
+cd build && make
+make: Leaving directory '/home/linwis/Project/SimpleWebServer'
+ 

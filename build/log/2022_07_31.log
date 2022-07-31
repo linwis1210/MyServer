@@ -1,0 +1,12 @@
+2022-07-31 18:08:24.835413 [info] : ========== Server init ==========
+2022-07-31 18:08:24.835429 [info] : Port:9006, OpenLinger: false
+2022-07-31 18:08:24.835433 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-31 18:08:24.835437 [info] : LogSys level: 1
+2022-07-31 18:08:24.835440 [info] : srcDir: /home/linwis/Project/SimpleWebServer/build/resources/
+2022-07-31 18:08:24.835443 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-07-31 18:08:24.835446 [info] : ========= Server start =========
+2022-07-31 18:08:28.722599 [info] : Client[18](192.168.58.1:28915) in, userCount:1
+2022-07-31 18:08:28.722814 [info] : Client[18] in!
+2022-07-31 18:08:28.722866 [info] : Client[19](192.168.58.1:29171) in, userCount:2
+2022-07-31 18:08:28.722880 [info] : Client[19] in!
+2022-07-31 18:08:28.725915 [info] : Client[18] quit!

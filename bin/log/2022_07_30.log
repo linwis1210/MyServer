@@ -1,0 +1,168 @@
+2022-07-30 18:56:29.379174 [info] : ========== Server init ==========
+2022-07-30 18:56:29.379182 [info] : Port:9006, OpenLinger: false
+2022-07-30 18:56:29.379184 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-30 18:56:29.379186 [info] : LogSys level: 1
+2022-07-30 18:56:29.379188 [info] : srcDir: /home/linwis/Project/SimpleWebServer/bin/resources/
+2022-07-30 18:56:29.379190 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-07-30 18:56:29.379192 [info] : ========= Server start =========
+2022-07-30 18:56:45.010295 [info] : Client[18](192.168.58.1:31999) in, userCount:1
+2022-07-30 18:56:45.010434 [info] : Client[18] in!
+2022-07-30 18:56:45.010460 [info] : Client[19](192.168.58.1:32255) in, userCount:2
+2022-07-30 18:56:45.010497 [info] : Client[19] in!
+2022-07-30 18:56:45.011334 [info] : upload file!
+2022-07-30 18:56:45.011823 [info] : Client[18] quit!
+2022-07-30 18:56:45.012001 [info] : Client[18](192.168.58.1:31999) quit, UserCount:1
+2022-07-30 18:56:45.146150 [info] : Client[19] quit!
+2022-07-30 18:56:45.146303 [info] : Client[19](192.168.58.1:32255) quit, UserCount:0
+2022-07-30 18:56:46.384545 [info] : Client[18](192.168.58.1:32767) in, userCount:1
+2022-07-30 18:56:46.384655 [info] : Client[18] in!
+2022-07-30 18:56:46.384665 [info] : Client[19](192.168.58.1:33023) in, userCount:2
+2022-07-30 18:56:46.384670 [info] : Client[19] in!
+2022-07-30 18:56:46.385949 [info] : upload file!
+2022-07-30 18:56:46.386156 [info] : Client[18] quit!
+2022-07-30 18:56:46.386276 [info] : Client[18](192.168.58.1:32767) quit, UserCount:1
+2022-07-30 18:56:47.277228 [info] : Client[18](192.168.58.1:33279) in, userCount:2
+2022-07-30 18:56:47.277326 [info] : Client[18] in!
+2022-07-30 18:56:56.758487 [info] : Client[19] quit!
+2022-07-30 18:56:56.758693 [info] : Client[19](192.168.58.1:33023) quit, UserCount:1
+2022-07-30 18:56:58.333762 [info] : Client[19](192.168.58.1:35071) in, userCount:2
+2022-07-30 18:56:58.333843 [info] : Client[19] in!
+2022-07-30 18:56:59.412425 [info] : Client[18] quit!
+2022-07-30 18:56:59.412524 [info] : Client[18](192.168.58.1:33279) quit, UserCount:1
+2022-07-30 18:57:01.826564 [info] : Client[18](192.168.58.1:35583) in, userCount:2
+2022-07-30 18:57:01.826648 [info] : Client[18] in!
+2022-07-30 18:57:05.232886 [info] : Client[19] quit!
+2022-07-30 18:57:05.232992 [info] : Client[19](192.168.58.1:35071) quit, UserCount:1
+2022-07-30 18:57:07.334913 [info] : Client[19](192.168.58.1:36351) in, userCount:2
+2022-07-30 18:57:07.335024 [info] : Client[19] in!
+2022-07-30 18:57:59.451353 [info] : Client[19] quit!
+2022-07-30 18:57:59.451529 [info] : Client[19](192.168.58.1:36351) quit, UserCount:1
+2022-07-30 19:01:58.579265 [info] : ========== Server init ==========
+2022-07-30 19:01:58.579272 [info] : Port:9006, OpenLinger: false
+2022-07-30 19:01:58.579275 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-30 19:01:58.579277 [info] : LogSys level: 1
+2022-07-30 19:01:58.579279 [info] : srcDir: /home/linwis/Project/SimpleWebServer/bin/resources/
+2022-07-30 19:01:58.579281 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-07-30 19:01:58.579283 [info] : ========= Server start =========
+2022-07-30 19:02:04.589838 [info] : Client[18](192.168.58.1:1984) in, userCount:1
+2022-07-30 19:02:04.589973 [info] : Client[18] in!
+2022-07-30 19:02:04.590055 [info] : Client[19](192.168.58.1:2240) in, userCount:2
+2022-07-30 19:02:04.590096 [info] : Client[19] in!
+2022-07-30 19:02:04.591113 [info] : Client[18] quit!
+2022-07-30 19:02:04.591238 [info] : Client[18](192.168.58.1:1984) quit, UserCount:1
+2022-07-30 19:02:09.689834 [info] : Client[18](192.168.58.1:2752) in, userCount:2
+2022-07-30 19:02:09.689964 [info] : Client[18] in!
+2022-07-30 19:02:11.762480 [info] : Client[19] quit!
+2022-07-30 19:02:11.762613 [info] : Client[19](192.168.58.1:2240) quit, UserCount:1
+2022-07-30 19:02:14.565776 [info] : Client[19](192.168.58.1:3008) in, userCount:2
+2022-07-30 19:02:14.565870 [info] : Client[19] in!
+2022-07-30 19:02:14.566839 [info] : Client[18] quit!
+2022-07-30 19:02:14.566930 [info] : Client[18](192.168.58.1:2752) quit, UserCount:1
+2022-07-30 19:02:17.998623 [info] : Client[18](192.168.58.1:3264) in, userCount:2
+2022-07-30 19:02:17.998731 [info] : Client[18] in!
+2022-07-30 19:02:25.632280 [info] : Client[19] quit!
+2022-07-30 19:02:25.632396 [info] : Client[19](192.168.58.1:3008) quit, UserCount:1
+2022-07-30 19:03:14.576612 [info] : Client[19] quit!
+2022-07-30 19:03:22.238421 [info] : Client[18] quit!
+2022-07-30 19:03:22.238578 [info] : Client[18](192.168.58.1:3264) quit, UserCount:0
+2022-07-30 19:03:22.238815 [info] : Client[18](192.168.58.1:6080) in, userCount:1
+2022-07-30 19:03:22.238851 [info] : Client[18] in!
+2022-07-30 19:03:22.238859 [info] : Client[19](192.168.58.1:6336) in, userCount:2
+2022-07-30 19:03:22.238864 [info] : Client[19] in!
+2022-07-30 19:03:22.239687 [info] : Client[19] quit!
+2022-07-30 19:03:22.239760 [info] : Client[19](192.168.58.1:6336) quit, UserCount:1
+2022-07-30 19:04:22.258785 [info] : Client[18] quit!
+2022-07-30 19:12:39.514315 [info] : ========== Server init ==========
+2022-07-30 19:12:39.514322 [info] : Port:9006, OpenLinger: false
+2022-07-30 19:12:39.514324 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-30 19:12:39.514327 [info] : LogSys level: 1
+2022-07-30 19:12:39.514329 [info] : srcDir: /home/linwis/Project/SimpleWebServer/bin/resources/
+2022-07-30 19:12:39.514331 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-07-30 19:12:39.514333 [info] : ========= Server start =========
+2022-07-30 19:12:39.678455 [info] : Client[18](192.168.58.1:38336) in, userCount:1
+2022-07-30 19:12:39.678568 [info] : Client[18] in!
+2022-07-30 19:12:39.678586 [info] : Client[19](192.168.58.1:38592) in, userCount:2
+2022-07-30 19:12:39.678602 [info] : Client[19] in!
+2022-07-30 19:12:39.679298 [info] : Client[19] quit!
+2022-07-30 19:12:39.679397 [info] : Client[19](192.168.58.1:38592) quit, UserCount:1
+2022-07-30 19:12:39.939299 [info] : Client[19](192.168.58.1:38848) in, userCount:2
+2022-07-30 19:12:39.939449 [info] : Client[19] in!
+2022-07-30 19:12:43.036660 [info] : Client[18] quit!
+2022-07-30 19:12:43.036777 [info] : Client[18](192.168.58.1:38336) quit, UserCount:1
+2022-07-30 19:12:44.667832 [info] : Client[18](192.168.58.1:39104) in, userCount:2
+2022-07-30 19:12:44.667930 [info] : Client[18] in!
+2022-07-30 19:12:44.668684 [info] : Client[19] quit!
+2022-07-30 19:12:44.668813 [info] : Client[19](192.168.58.1:38848) quit, UserCount:1
+2022-07-30 19:12:45.031425 [info] : Client[19](192.168.58.1:39360) in, userCount:2
+2022-07-30 19:12:45.031545 [info] : Client[19] in!
+2022-07-30 19:12:45.032248 [info] : Client[18] quit!
+2022-07-30 19:12:45.032330 [info] : Client[18](192.168.58.1:39104) quit, UserCount:1
+2022-07-30 19:12:45.227390 [info] : Client[18](192.168.58.1:39616) in, userCount:2
+2022-07-30 19:12:45.227485 [info] : Client[18] in!
+2022-07-30 19:12:45.227921 [info] : Client[19] quit!
+2022-07-30 19:12:45.228017 [info] : Client[19](192.168.58.1:39360) quit, UserCount:1
+2022-07-30 19:12:45.417873 [info] : Client[19](192.168.58.1:39872) in, userCount:2
+2022-07-30 19:12:45.417979 [info] : Client[19] in!
+2022-07-30 19:12:45.418667 [info] : Client[18] quit!
+2022-07-30 19:12:45.418793 [info] : Client[18](192.168.58.1:39616) quit, UserCount:1
+2022-07-30 19:12:45.598243 [info] : Client[18](192.168.58.1:40128) in, userCount:2
+2022-07-30 19:12:45.598335 [info] : Client[18] in!
+2022-07-30 19:12:45.598887 [info] : Client[19] quit!
+2022-07-30 19:12:45.598950 [info] : Client[19](192.168.58.1:39872) quit, UserCount:1
+2022-07-30 19:12:45.751872 [info] : Client[19](192.168.58.1:40384) in, userCount:2
+2022-07-30 19:12:45.751971 [info] : Client[19] in!
+2022-07-30 19:12:45.752562 [info] : Client[18] quit!
+2022-07-30 19:15:56.230972 [info] : ========== Server init ==========
+2022-07-30 19:15:56.230978 [info] : Port:9006, OpenLinger: false
+2022-07-30 19:15:56.230981 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-30 19:15:56.230983 [info] : LogSys level: 1
+2022-07-30 19:15:56.230985 [info] : srcDir: /home/linwis/Project/SimpleWebServer/bin/resources/
+2022-07-30 19:15:56.230987 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-07-30 19:15:56.230989 [info] : ========= Server start =========
+2022-07-30 19:16:01.203086 [info] : Client[18](192.168.58.1:48576) in, userCount:1
+2022-07-30 19:16:01.203537 [info] : Client[18] in!
+2022-07-30 19:16:01.203595 [info] : Client[19](192.168.58.1:48832) in, userCount:2
+2022-07-30 19:16:01.203610 [info] : Client[19] in!
+2022-07-30 19:16:01.204320 [info] : Client[18] quit!
+2022-07-30 19:16:01.204413 [info] : Client[18](192.168.58.1:48576) quit, UserCount:1
+2022-07-30 19:16:03.137061 [info] : Client[18](192.168.58.1:49088) in, userCount:2
+2022-07-30 19:16:03.137153 [info] : Client[18] in!
+2022-07-30 19:16:03.137903 [info] : Client[19] quit!
+2022-07-30 19:16:03.137984 [info] : Client[19](192.168.58.1:48832) quit, UserCount:1
+2022-07-30 19:16:04.883659 [info] : Client[19](192.168.58.1:49344) in, userCount:2
+2022-07-30 19:16:04.883755 [info] : Client[19] in!
+2022-07-30 19:16:05.610137 [info] : Client[18] quit!
+2022-07-30 19:16:05.610249 [info] : Client[18](192.168.58.1:49088) quit, UserCount:1
+2022-07-30 19:17:05.654698 [info] : Client[19] quit!
+2022-07-30 19:26:11.675775 [info] : ========== Server init ==========
+2022-07-30 19:26:11.675783 [info] : Port:9006, OpenLinger: false
+2022-07-30 19:26:11.675786 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-30 19:26:11.675789 [info] : LogSys level: 1
+2022-07-30 19:26:11.675791 [info] : srcDir: /home/linwis/Project/SimpleWebServer/bin/resources/
+2022-07-30 19:26:11.675794 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-07-30 19:26:11.675796 [info] : ========= Server start =========
+2022-07-30 19:26:16.478461 [info] : Client[18](192.168.58.1:16066) in, userCount:1
+2022-07-30 19:26:16.478939 [info] : Client[18] in!
+2022-07-30 19:26:16.478985 [info] : Client[19](192.168.58.1:16322) in, userCount:2
+2022-07-30 19:26:16.478993 [info] : Client[19] in!
+2022-07-30 19:26:16.480001 [info] : Client[19] quit!
+2022-07-30 19:26:16.480140 [info] : Client[19](192.168.58.1:16322) quit, UserCount:1
+2022-07-30 19:26:18.645333 [info] : Client[19](192.168.58.1:16834) in, userCount:2
+2022-07-30 19:26:18.645440 [info] : Client[19] in!
+2022-07-30 19:26:19.275593 [info] : Client[18] quit!
+2022-07-30 19:26:19.275756 [info] : Client[18](192.168.58.1:16066) quit, UserCount:1
+2022-07-30 19:26:19.436084 [info] : Client[18](192.168.58.1:17090) in, userCount:2
+2022-07-30 19:26:19.436170 [info] : Client[18] in!
+2022-07-30 19:26:19.436943 [info] : Client[19] quit!
+2022-07-30 19:26:19.437026 [info] : Client[19](192.168.58.1:16834) quit, UserCount:1
+2022-07-30 19:26:19.596099 [info] : Client[19](192.168.58.1:17346) in, userCount:2
+2022-07-30 19:26:19.596190 [info] : Client[19] in!
+2022-07-30 19:26:19.597281 [info] : Client[18] quit!
+2022-07-30 19:26:19.597418 [info] : Client[18](192.168.58.1:17090) quit, UserCount:1
+2022-07-30 19:26:19.750327 [info] : Client[18](192.168.58.1:17602) in, userCount:2
+2022-07-30 19:26:19.750417 [info] : Client[18] in!
+2022-07-30 19:26:19.751211 [info] : Client[19] quit!
+2022-07-30 19:26:19.751331 [info] : Client[19](192.168.58.1:17346) quit, UserCount:1
+2022-07-30 19:26:19.901913 [info] : Client[19](192.168.58.1:17858) in, userCount:2
+2022-07-30 19:26:19.902032 [info] : Client[19] in!
+2022-07-30 19:26:19.902749 [info] : Client[18] quit!

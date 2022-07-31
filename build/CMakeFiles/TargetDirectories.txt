@@ -1,0 +1,3 @@
+/home/linwis/Project/SimpleWebServer/build/CMakeFiles/rebuild_cache.dir
+/home/linwis/Project/SimpleWebServer/build/CMakeFiles/SimpleWebServer.dir
+/home/linwis/Project/SimpleWebServer/build/CMakeFiles/edit_cache.dir
