@@ -5,4 +5,4 @@ fi
 cd build
 cmake ..
 make
-cd ../ && ./bin/SimpleWebServer
+cd ../ && ./bin/MyWebServer
